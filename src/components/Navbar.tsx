@@ -28,7 +28,7 @@ export default function Navbar() {
           className="font-headline-md text-headline-md font-bold text-on-surface tracking-tight hover:text-primary transition-colors duration-300"
           aria-label="Tech & Innovation home"
         >
-          Tech &amp; Innovation
+          Technology &amp; Digital Innovation
         </a>
 
         {/* Desktop nav */}
