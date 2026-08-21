@@ -63,7 +63,7 @@ export default function HeroSection() {
               id="hero-build-btn"
               className="btn-ghost px-8 py-4 rounded-full font-label-md text-label-md text-on-surface font-medium hover:text-primary transition-colors"
             >
-              Let&apos;s Build Together
+              Contact Us 
             </button>
           </div>
         </div>
