@@ -59,12 +59,15 @@ export default function HeroSection() {
             >
               Explore Our Solutions
             </button>
-            <button
+            <a
               id="hero-build-btn"
-              className="btn-ghost px-8 py-4 rounded-full font-label-md text-label-md text-on-surface font-medium hover:text-primary transition-colors"
+              href="https://kingschat.online/user/alexdabest"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-ghost px-8 py-4 rounded-full font-label-md text-label-md text-on-surface font-medium hover:text-primary transition-colors inline-flex items-center justify-center"
             >
-              Contact Us 
-            </button>
+              Contact Us
+            </a>
           </div>
         </div>
 
