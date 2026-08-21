@@ -42,12 +42,7 @@ export default function Navbar() {
               {link.label}
             </a>
           ))}
-          <button
-            id="nav-cta-btn"
-            className="btn-primary px-6 py-3 rounded-full font-label-md text-label-md text-on-primary font-bold ml-4"
-          >
-            Start a Project
-          </button>
+          
         </div>
 
         {/* Mobile hamburger */}
