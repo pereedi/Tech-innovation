@@ -5,7 +5,7 @@ const legalLinks = [
 
 const companyLinks = [
   { label: 'Career', href: '#' },
-  { label: 'Contact', href: '#' },
+  { label: 'Contact', href: 'https://kingschat.online/user/alexdabest' },
 ]
 
 export default function Footer() {
